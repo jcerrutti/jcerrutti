@@ -3,7 +3,10 @@
 
 My favorite language by far is __JavaScript__, and my passion is to understand more about the foundations and why _NaN is a number_ 🤔.
 
-I'm currently working at [Ring.com](https://www.ring.com) on some amazing projects.
+Focused on:
+- React
+- React Native
+- NodeJs
 
 You can reach me at [Linkedin](https://www.linkedin.com/in/juancerrutti/), check my [online resume](https://juancerrutti.me) 📃, follow me on [Twitter](https://twitter.com/jicerrutti) 📢 or send me an email 📥: jicerrutti@gmail.com .
 
