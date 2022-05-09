@@ -5,5 +5,5 @@ My favorite language by far is __JavaScript__, and my passion is to understand m
 
 Working with React, React Native and NodeJs.
 
-You can reach me at [Linkedin](https://www.linkedin.com/in/juancerrutti/), check my [online resume](https://juancerrutti.me) 📃, follow me on [Twitter](https://twitter.com/jicerrutti) 📢 or send me an email 📥: jicerrutti@gmail.com .
+You can reach me at [Linkedin](https://www.linkedin.com/in/juancerrutti/), check my [online resume](https://juancerrutti.me) 📃 or send me an email 📥: jicerrutti@gmail.com .
 
